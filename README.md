@@ -14,7 +14,7 @@ Gosto de gerar novas ideias e desenvolver soluções viáveis.
    
   <div style="display: inline_block"<br>
    <img align="center" alt="Vi-JS" height="30"whidht="40" src="">
-   <img align="center" alt="Vi-HTML height="30"whidht="40" src="">
+   <img align="center" alt="Vi-HTML height="30"whidht="40" src="">  
    <img align="center" alt="Vi-CSS height="30"whidht="40" src="">
    <img align="center" alt="Vi-TS height="30"whidht="40" src="">
    <img align="center" alt="Vi-JAVA" height="30"whidht="40" src=""
