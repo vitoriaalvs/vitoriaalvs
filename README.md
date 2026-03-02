@@ -1,17 +1,22 @@
-## Olá! Eu sou a Vitória Alves
-- 💡 Apaixonada por tecnologia, buscando sempre me desafiar e aperfeiçoar meus conhecimentos. 
-Gosto de gerar novas ideias e desenvolver soluções viáveis.
-- 🌱 Estudando Angular e Vue
-- 😊 Pronome: ela/dela
+## Quality Assurance
 
+🔎 Quality Assurance orientada à estratégia e à excelência em produto.
+
+📊 Atuo garantindo qualidade ponta a ponta, desde o refinamento de requisitos até a validação final da entrega.
+
+🧠 Foco em prevenção de falhas, análise de riscos, melhoria de processos e colaboração com times de produto e desenvolvimento.
+
+🧪 Experiência com testes funcionais, exploratórios, validação de integrações e apoio na definição de critérios de aceite.
+
+🚀 Defensora da cultura de qualidade contínua e evolução técnica constante.
           
-
+ <!---
 <div>
   <a href="https://github.com/vitoriaalvs" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaalvs&show_icons=true&theme=dark&include_all_comits-true&count_private-true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaalvs&layout=compact&langs_count=16&theme=dark">
  <div>
- <!---
+
   <div style="display: inline_block"<br>
    <img align="center" alt="Vi-JS" height="30"whidht="40" src="">
    <img align="center" alt="Vi-HTML height="30"whidht="40" src="">  
